@@ -1,0 +1,6 @@
+﻿token=NTE4NDc2MTYxNTUwOTA5NDUw.DuR3vA.vFAFrermXAIh7U7c5zjf1Ne87y8
+owner=356149444032331779
+prefix= xL!
+game= Playing - ! - xLeSpammer™ .♡.! Music Bot
+stayinchannel=true
+songinstatus=true 
